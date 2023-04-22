@@ -1,0 +1,1 @@
+= aceeleratia este zero
